@@ -1,1 +1,1 @@
-This readme is not empty
+Task 0. Where am I?
